@@ -1,9 +1,4 @@
-/* body {
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: 1fr 1fr auto;
-} */
-
+@import 'footer.css';
 
 html, body {
   height: 100%;
@@ -13,11 +8,4 @@ html, body {
   min-height: 100%;
   display: grid;
   grid-template-rows: auto 1fr auto;
-}
-
-footer {
-  grid-row-start: 3;
-  grid-row-end: 4;
-  background: #42A5F5;
-  color: white;
 }
