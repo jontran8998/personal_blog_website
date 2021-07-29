@@ -1,5 +1,7 @@
 @import 'footer.css';
 @import 'nav.css';
+@import 'button.css';
+
 html, body {
   height: 100%;
 }
