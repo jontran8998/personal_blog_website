@@ -22,3 +22,7 @@
 .nav li a:hover {
   background-color: #111;
 }
+
+.nav {
+  padding-bottom: 10px;
+}
