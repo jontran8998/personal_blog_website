@@ -24,15 +24,21 @@ html, body {
   text-align: center;
 }
 
-.image {
+.side_image {
   border-radius: 50%;
   border: #f1f1f1;
+  width: 200px;
+  height: 200px; 
 }
 
 .main {
   flex: 70%;
   background-color: white;
   padding: 20px;
+}
+
+.main_image {
+  height: 200px;
 }
 
 
