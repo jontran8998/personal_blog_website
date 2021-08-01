@@ -33,4 +33,13 @@ img {
   .flex-container{   
     flex-direction: column;
   }
+
+  img {
+    height: 150px;
+  }
+
+  button {
+    font-size: 12px;
+    padding: 5px;
+  }
 }
